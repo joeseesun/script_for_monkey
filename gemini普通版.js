@@ -40,7 +40,7 @@ const PROMPT = `
 📖 词汇
 `;
 
-const API_KEY = 'AIzaSyAedclb2NuWLZBS1Qy3NW9Tf4Lo4xg49Jw'; // 替换为您的实际Gemini API密钥
+const API_KEY = '换成你的'; // 替换为您的实际Gemini API密钥
 const MODEL = 'gemini-1.5-flash';
 const TARGET_LANGUAGE = 'Chinese';
 const API_ENDPOINT = 'https://generativelanguage.googleapis.com/v1/models/gemini-1.5-flash:generateContent';
