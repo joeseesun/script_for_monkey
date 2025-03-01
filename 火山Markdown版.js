@@ -80,7 +80,7 @@ const USER_PROMPT = `
 
 // API 配置
 const API_ENDPOINT = 'https://ark.cn-beijing.volces.com/api/v3/chat/completions';
-const API_KEY = 'eaa36b3f-a4b4-492f-a76f-a5dfa3f19ed5';
+const API_KEY = '换成你的';
 const MODEL = 'ep-20250222222029-sx6sd';
 
 // 测试 GM.xmlHttpRequest 的独立功能
